@@ -1,0 +1,17 @@
+.header{
+    display: flex;
+    justify-content: start;
+    background-color: black;
+    font-family: sans-serif;
+    font-size: 20px;
+    font-weight: 400;
+    color: white;
+}
+
+.bodyimg{
+    display: flex;
+    background-color: black;
+    justify-content: space-between;
+    font-family: 'Courier New', Courier, monospace;
+    color: white;
+}
